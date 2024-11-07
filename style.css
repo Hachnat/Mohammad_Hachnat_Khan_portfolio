@@ -445,7 +445,7 @@ body.scrolled .header--navbar {
 .header--nav .nav li a:focus,
 .header--nav .nav li a:hover,
 .header--nav .nav li.active a {
-    background: 0 0
+    background: gray;
 }
 
 .header--nav .nav li a:before {
